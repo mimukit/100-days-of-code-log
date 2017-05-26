@@ -21,9 +21,17 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 ### Day 1: May 25, 2017, Thursday
 
 **Today's Progress**: 
-
-**Thoughts:** 
+- Revised the basic HTML & CSS
+- Completed a "Flat Login Template" project
 
 **Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- CSS: center an element on a page using `transform` & `translate` property
+
+**Thoughts:**  At last able to start the chellenge and do some real coding. Enjoyed the time and work. Wish to have a great journey. 
+
+
 
 
