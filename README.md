@@ -32,6 +32,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  At last able to start the chellenge and do some real coding. Enjoyed the time and work. Wish to have a great journey. 
 
+------------
 
+### Day 2: May 26, 2017, Friday
+
+**Today's Progress**: 
+- Continue revising the HTML & CSS
+- Completed a "Creative Login/Singup Template" project
+
+**Link to work:** 
+- [Creative Login/Signup Template](https://github.com/mimukit/html5-templates-collection#2-creative-loginsignup-template "Creative Login/Signup Template")
+
+**New thing(s) learned:** 
+- CSS: details about `position` & `box-shadow` property
+
+**Thoughts:**  Things are going well. As today was a weekend, I got some more time to learn some confusing topics of CSS. Feeling active. 😇😇 
 
 
