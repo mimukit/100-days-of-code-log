@@ -48,4 +48,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  Things are going well. As today was a weekend, I got some more time to learn some confusing topics of CSS. Feeling active. 😇😇 
 
+------------
+
+### Day 3: May 27, 2017, Saturday
+
+**Today's Progress**: 
+- Deep drive into Responsive Design
+- Completed "Learn Responsive Design" inter-active course on [Codecademy](https://www.codecademy.com/learn/learn-responsive-design "Codecademy")
+
+**Link to work:** 
+- [Codecademy Profile Page](https://www.codecademy.com/mimukit "Codecademy Profile Page")
+
+**New thing(s) learned:** 
+- CSS: details about `@media` property
+- CSS: apply different style based on DPI ( `min-resolution` , `max-resolution`)
+
+**Thoughts:**  Not a bad day at all. Though it seems like missing doing some commit on github. 😜😜
 
