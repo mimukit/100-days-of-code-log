@@ -65,3 +65,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  Not a bad day at all. Though it seems like missing doing some commit on github. 😜😜
 
+------------
+
+### Day 4: May 28, 2017, Sunday
+
+**Today's Progress**: 
+- Learning `SASS/SCSS` CSS preprocessor
+- Completed "Learn Sass" course on [Codecademy](https://www.codecademy.com/learn/learn-sass" "Learn Sass")
+
+**Link to work:** 
+- [Codecademy Profile Page](https://www.codecademy.com/mimukit "Codecademy Profile Page")
+
+**New thing(s) learned:** 
+- CSS: details about SCSS `variable` , `mixins` , `nesting` features
+
+**Thoughts:**  Interactive courses (like [freecodecamp](https://www.freecodecamp.com "freecodecamp"), [codecademy](https://www.codecademy.com "codecademy")) are great for learning new topics with some hands-on coding. I should complete some more interactive courses on those.
+
