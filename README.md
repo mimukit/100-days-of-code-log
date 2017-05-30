@@ -81,3 +81,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  Interactive courses (like [freecodecamp](https://www.freecodecamp.com "freecodecamp"), [codecademy](https://www.codecademy.com "codecademy")) are great for learning new topics with some hands-on coding. I should complete some more interactive courses on those.
 
+------------
+
+### Day 5: May 29, 2017, Monday
+
+**Today's Progress**: 
+- Learning about `moduler` css & CSS `BEM` coding styles
+- Working on a HTML5 Blog template
+
+**Link to work:** 
+- Project was not finished today. Hope it'll finish tomorrow.
+
+**New thing(s) learned:** 
+- CSS: moduler css application and benifits, why & how
+
+**Thoughts:** It was a busy day for learning new things so got fewer things done today. Hope can do some more tomorrow.
