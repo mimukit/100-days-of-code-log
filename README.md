@@ -96,3 +96,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - CSS: moduler css application and benifits, why & how
 
 **Thoughts:** It was a busy day for learning new things so got fewer things done today. Hope can do some more tomorrow.
+
+------------
+
+### Day 6: May 30, 2017, Tuesday
+
+**Today's Progress**: 
+- Completed yesterday's blog template project **"Rivet | Simple Blog Template"**
+
+**Link to work:** 
+- [Rivet | Simple Blog Template](https://github.com/mimukit/html5-templates-collection#3-rivet--simple-blog-template "Rivet | Simple Blog Template")
+
+**New thing(s) learned:** 
+- Issues of building a responsive site manually without any framework
+
+**Thoughts:** It is really hard to create and maintain a responsive site without organized code. It's also very time consuming. Got a better realization why those CSS frameworks are so much popular. I think speed will come through experience. 😁
+
