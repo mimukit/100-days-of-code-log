@@ -112,3 +112,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:** It is really hard to create and maintain a responsive site without organized code. It's also very time consuming. Got a better realization why those CSS frameworks are so much popular. I think speed will come through experience. 😁
 
+------------
+
+### Day 7: May 31, 2017, Wednesday
+
+**Today's Progress**: 
+- Deep dirve into CSS3 properties and animation
+- Started some small animation transition projects
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- CSS: `border-image` property & CSS3 animations
+
+**Thoughts:** After all, the journey going well. Completed 1st week of the journey. It's motivaing me to carry on. Not a bad progress over-all.
+
