@@ -128,3 +128,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:** After all, the journey going well. Completed 1st week of the journey. It's motivaing me to carry on. Not a bad progress over-all.
 
+------------
+
+### ~~Day 8~~ (Off Day 1): June 01, 2017, Thursday
+
+**Today's Progress**: 
+- It was an off day. There were some family program.
+
+**Link to work:** 
+- None
+
+**New thing(s) learned:** 
+- None
+
+**Thoughts:** It's better to sometime take a break. Feeling fresh.
+
