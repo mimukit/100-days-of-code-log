@@ -143,3 +143,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:** It's better to sometime take a break. Feeling fresh.
 
+------------
+
+### Day 8: June 02, 2017, Friday
+
+**Today's Progress**: 
+- Deep dirve Bootstrap framework
+- Started a bootstrap project wish to finish tomorrow
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- Bootstrap: `modal` details and how to create
+
+**Thoughts:** It's time to speed up some building process with frameworks. As expected, Bootstrap is the first one to look at. Wish to do some quality projects with Bootstrap.
+
