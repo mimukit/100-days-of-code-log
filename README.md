@@ -159,3 +159,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:** It's time to speed up some building process with frameworks. As expected, Bootstrap is the first one to look at. Wish to do some quality projects with Bootstrap.
 
+------------
+
+### Day 9: June 3, 2017, Saturday
+
+**Today's Progress**: 
+- Revisit to Javascript World
+- A deep drive into [MDN JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript "MDN JS")
+- Started "Learn JavaScript" course on [Codecademy](https://www.codecademy.com/learn/learn-javascript" "Learn JavaScript")
+
+**Link to work:** 
+- [Codecademy Profile Page](https://www.codecademy.com/mimukit "Codecademy Profile Page")
+
+**New thing(s) learned:** 
+- JS revisied, nothing much new.
+
+**Thoughts:**  JS is a must have tool for all kind of developer. Though I have some pending CSS animation and Bootstrap projects, I want to start the JS so that I can use them on those projects too. Actually we don't go too far in the frontend world without JS. It's like the opening door of the real power of web. 💪💪
