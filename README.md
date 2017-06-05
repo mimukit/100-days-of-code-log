@@ -175,3 +175,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS revisied, nothing much new.
 
 **Thoughts:**  JS is a must have tool for all kind of developer. Though I have some pending CSS animation and Bootstrap projects, I want to start the JS so that I can use them on those projects too. Actually we don't go too far in the frontend world without JS. It's like the opening door of the real power of web. 💪💪
+
+------------
+
+### Day 10: June 4, 2017, Sunday
+
+**Today's Progress**: 
+- Continue "Learn JavaScript" course on [Codecademy](https://www.codecademy.com/learn/learn-javascript" "Learn JavaScript")
+- Started eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** by Marijn Haverbeke
+
+**Link to work:** 
+- [Codecademy Profile Page](https://www.codecademy.com/mimukit "Codecademy Profile Page")
+
+**New thing(s) learned:** 
+- JS revisied, nothing much new.
+
+**Thoughts:**  I should completed the codecademy course today. Btw, the eBook will be a good start to deep drive into JS. Wish to complete it as soon as possible.
