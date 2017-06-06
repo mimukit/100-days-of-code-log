@@ -191,3 +191,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS revisied, nothing much new.
 
 **Thoughts:**  I should completed the codecademy course today. Btw, the eBook will be a good start to deep drive into JS. Wish to complete it as soon as possible.
+
+------------
+
+### Day 11: June 5, 2017, Monday
+
+**Today's Progress**: 
+- Completed "Learn JavaScript" course on [Codecademy](https://www.codecademy.com/learn/learn-javascript" "Learn JavaScript")
+- Continue reading eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** by Marijn Haverbeke
+
+**Link to work:** 
+- [Codecademy Profile Page](https://www.codecademy.com/mimukit "Codecademy Profile Page")
+
+**New thing(s) learned:** 
+- JS: few `jQuery` methods
+
+**Thoughts:**  Not a bad progress overall. Time to do some project again.
+
