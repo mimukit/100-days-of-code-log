@@ -208,3 +208,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  Not a bad progress overall. Time to do some project again.
 
+
+------------
+
+### Day 12: June 6, 2017, Tuesday
+
+**Today's Progress**: 
+- Getting Started with React JS
+- Revised completed course "Learn ReactJS: Part I" on [Codecademy](https://www.codecademy.com/learn/react-101" "Learn ReactJS: Part I")
+- Continue reading eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** [Ch-3] by Marijn Haverbeke
+
+**Link to work:** 
+- [Codecademy Profile Page](https://www.codecademy.com/mimukit "Codecademy Profile Page")
+
+**New thing(s) learned:** 
+- JS: React `props` & `states`
+- Component based web app development
+
+**Thoughts:**  Though I had some experience with React previously, I wanted to have a fresh start. Modern Javascript frameworks like ReactJS/VueJS can bring great power to projects if can be implemented properly. React completely forces the developers to think differently.
