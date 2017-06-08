@@ -226,3 +226,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Component based web app development
 
 **Thoughts:**  Though I had some experience with React previously, I wanted to have a fresh start. Modern Javascript frameworks like ReactJS/VueJS can bring great power to projects if can be implemented properly. React completely forces the developers to think differently.
+
+------------
+
+### Day 13: June 7, 2017, Wednesday
+
+**Today's Progress**: 
+- Started a little "React Weather App" project
+- Continue reading eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** [Ch-3] by Marijn Haverbeke
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `create-react-app` boilerplate usage
+
+**Thoughts:**  Things going well. Hope the first react project will complete tomorrow.
