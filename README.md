@@ -242,3 +242,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: `create-react-app` boilerplate usage
 
 **Thoughts:**  Things going well. Hope the first react project will complete tomorrow.
+
+------------
+
+### Day 14: June 8, 2017, Thursday
+
+**Today's Progress**: 
+- Continue working on "React Weather App" project
+- Continue reading eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** [Ch-4] by Marijn Haverbeke
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- Nothing much new things today.
+
+**Thoughts:**  Best way to learn a new technology is to create some real project after learning the basic. In a nutshell, learning by doing. But we must not skip the theoritical part though.
