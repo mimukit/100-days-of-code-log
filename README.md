@@ -258,3 +258,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Nothing much new things today.
 
 **Thoughts:**  Best way to learn a new technology is to create some real project after learning the basic. In a nutshell, learning by doing. But we must not skip the theoritical part though.
+
+------------
+
+### Day 15: June 9, 2017, Friday
+
+**Today's Progress**: 
+- Completed "React Weather App" project
+
+**Link to work:** 
+- [React Weather App](https://github.com/mimukit/react-weather-app "React Weather App")
+
+**New thing(s) learned:** 
+- JS: React component life cycles & it's usages
+- OpenWeatherMap api usages & data fetching
+- Production ready app properties
+- Continious deployment cycle on cloud server
+
+**Thoughts:**  Finally completed my first production ready React app and deployed on live server. Though it is a small app & there was a step by step guide, but understanding the different parts of the projects and under delaying working theories were the main parts of the project. It took some extra time to fit all the pieces of the puzzle together but I think the time worth it.  😁😁😁
+
