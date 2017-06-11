@@ -277,3 +277,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  Finally completed my first production ready React app and deployed on live server. Though it is a small app & there was a step by step guide, but understanding the different parts of the projects and under delaying working theories were the main parts of the project. It took some extra time to fit all the pieces of the puzzle together but I think the time worth it.  😁😁😁
 
+------------
+
+### Day 16: June 10, 2017, Saturday
+
+**Today's Progress**: 
+- Started new course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). Seems a good complete intro to React.
+- Completed some exercise examples form #30DaysOfReact series.
+- Continue reading eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** [Ch-5] by Marijn Haverbeke
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: React component nesting, parent-chield relationship building, static component, dynamic component, data-driven component
+
+**Thoughts:**  It's time to take a deeper look into React. #30DaysOfReact will be a good start for that I think. Hope can complete it soon.
+
