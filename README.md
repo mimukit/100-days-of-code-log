@@ -275,7 +275,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Production ready app properties
 - Continious deployment cycle on cloud server
 
-**Thoughts:**  Finally completed my first production ready React app and deployed on live server. Though it is a small app & there was a step by step guide, but understanding the different parts of the projects and under delaying working theories were the main parts of the project. It took some extra time to fit all the pieces of the puzzle together but I think the time worth it.  😁😁😁
+**Thoughts:**  Finally completed my first production ready React app and deployed on live server. Though it is a small app & there was a step by step guide, but understanding the different parts and under delaying working theories & mechanisms were the main parts of the project. It took some extra time to fit all the pieces of the puzzle together but I think the time worth it.  😁😁😁
 
 ------------
 
@@ -294,4 +294,23 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: React component nesting, parent-chield relationship building, static component, dynamic component, data-driven component
 
 **Thoughts:**  It's time to take a deeper look into React. #30DaysOfReact will be a good start for that I think. Hope can complete it soon.
+
+------------
+
+### Day 17: June 11, 2017, Sunday
+
+**Today's Progress**: 
+- Continue course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 3-7]
+- Completed some exercise examples form #30DaysOfReact series.
+- Continue reading eBook **"[Eloquent JavaScript](http://eloquentjavascript.net/ "Eloquent JavaScript")"** [Ch-6] by Marijn Haverbeke
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: in-depth react component life cycle hooks
+
+**Thoughts:**  I was little bit busy last few days so couldn't do much. But in the end of the day every bit of little effort counts.
+
 
