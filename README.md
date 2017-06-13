@@ -313,4 +313,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  I was little bit busy last few days so couldn't do much. But in the end of the day every bit of little effort counts.
 
+------------
+
+### Day 18: June 12, 2017, Monday
+
+**Today's Progress**: 
+- Continue course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 8]
+- Completed some exercise examples form #30DaysOfReact series.
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: in-depth react `props` & `propsTypes`
+
+**Thoughts:**  I am enjoying working with react. Though it seems little scary at first glance, more and more anyone dig into, more he can see the power & simplicity.
+
+
 
