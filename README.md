@@ -331,4 +331,17 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts:**  I am enjoying working with react. Though it seems little scary at first glance, more and more anyone dig into, more he can see the power & simplicity.
 
 
+------------
 
+### ~~Day 19~~ (Off Day 2): June 13, 2017, Tuesday
+
+**Today's Progress**: 
+- It was an off day. I was on a journey to my home villege.
+
+**Link to work:** 
+- None
+
+**New thing(s) learned:** 
+- None
+
+**Thoughts:** It was a full day bus journey. Busy and long tired day. Need some quality sleep. 😴😴
