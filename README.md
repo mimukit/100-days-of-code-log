@@ -345,3 +345,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - None
 
 **Thoughts:** It was a full day bus journey. Busy and long tired day. Need some quality sleep. 😴😴
+
+------------
+
+### Day 19: June 14, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 9]
+- Completed some exercise examples form #30DaysOfReact series.
+- **Started Personal Portfolio Site project**
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- CSS: Component based css styling
+- JS: Integrating styles with React
+
+**Thoughts:**  Things are started again slowly. Need some momentum.
