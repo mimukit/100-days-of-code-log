@@ -364,3 +364,5 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: Integrating styles with React
 
 **Thoughts:**  Things are started again slowly. Need some momentum.
+
+-------------
