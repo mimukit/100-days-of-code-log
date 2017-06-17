@@ -389,3 +389,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 	- ` onTouchEnd`
 
 **Thoughts:**  It is little bit hard to continue learning during such a busy schedule. But I am trying my best.
+
+------------
+
+### Day 21: June 16, 2017, Friday
+
+**Today's Progress**: 
+- Continue course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 11-15]
+- Completed some exercise examples form #30DaysOfReact series.
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: React `pure component` & when to use
+- JS: `React.cloneElement()` functionality
+- JS: Fetching remote data using `fetch()` method
+
+**Thoughts:**  At last get some free time today and decreased some pending work load. Feeling better now. Just need to finish the book and start some project.
