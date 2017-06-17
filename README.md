@@ -365,4 +365,27 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Thoughts:**  Things are started again slowly. Need some momentum.
 
--------------
+------------
+
+### Day 20: June 15, 2017, Thursday
+
+**Today's Progress**: 
+- Continue course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 10]
+- Completed some exercise examples form #30DaysOfReact series.
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: React interactivity & event functions like:
+	- ` onMouseMove`
+	- ` onMouseUp`
+	- ` onMouseDown`
+	- ` onClick`
+	- ` onDoubleClick`
+	- ` onMouseLeave`
+	- ` onTouchStart`
+	- ` onTouchEnd`
+
+**Thoughts:**  It is little bit hard to continue learning during such a busy schedule. But I am trying my best.
