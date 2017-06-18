@@ -408,3 +408,22 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: Fetching remote data using `fetch()` method
 
 **Thoughts:**  At last get some free time today and decreased some pending work load. Feeling better now. Just need to finish the book and start some project.
+
+------------
+
+### Day 22: June 17, 2017, Saturday
+
+**Today's Progress**: 
+- Started new project "**React Youtube App**"
+- Started new udemy course "[Modern React with Redux](https://www.udemy.com/react-redux/ "Modern React with Redux")"
+- Continue course [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 16-17]
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `promise` what, how, why
+- JS: `react-router` functionality
+
+**Thoughts:**  Things getting some momentum. Starting a new project opens the door to learn new things. Wish to complete the project before Eid vacation.
