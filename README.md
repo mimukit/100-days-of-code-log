@@ -427,3 +427,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: `react-router` functionality
 
 **Thoughts:**  Things getting some momentum. Starting a new project opens the door to learn new things. Wish to complete the project before Eid vacation.
+
+------------
+
+### Day 23: June 18, 2017, Sunday
+
+**Today's Progress**: 
+- Continue working on "**React Youtube App**" project
+- Continue course "[Modern React with Redux](https://www.udemy.com/react-redux/ "Modern React with Redux")"
+
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `Youtube API` usage
+
+**Thoughts:**  Not a bad progress so far.
