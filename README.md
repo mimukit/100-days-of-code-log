@@ -445,3 +445,21 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: `Youtube API` usage
 
 **Thoughts:**  Not a bad progress so far.
+
+------------
+
+### Day 24: June 19, 2017, Monday
+
+**Today's Progress**: 
+- Continue working on "**React Youtube App**" project
+- **Completed** "[Modern React with Redux](https://www.udemy.com/react-redux/ "Modern React with Redux")" course (React part)
+- **Started new book** "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch") 
+
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `Lodash` utility library usage & some api
+
+**Thoughts:**  Currently I am focused only on pure React. So courses and books I started was completed till React discussion. Redux/Flux/Relay/GraphQL all other tech discussion are omitted now, and will be continued on appropriate time sequentially. I want to do 2-3 more complete React projects before drive into advanced topices.
