@@ -16,6 +16,16 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Get a good grap on Node JS & server-side javascript
 - Complete [FCC](https://www.freecodecamp.com/mimukit "FCC Profile") certification
 
+## Completed Projects List
+
+| No  |  Project Title  |  Completed On |
+| :------------: | ------------ | :------------: |
+| 1  | Flat Login Template | [Day 1](https://github.com/mimukit/100-days-of-code-log#day-1-may-25-2017-thursday "Day 1")  |
+|  2 | Creative Login/Signup Template  | [Day 2](https://github.com/mimukit/100-days-of-code-log#day-2-may-26-2017-friday "Day 2")  |
+|  3 | Rivet - Simple Blog Template  | [Day 6](https://github.com/mimukit/100-days-of-code-log#day-6-may-30-2017-tuesday "Day 6")  |
+| 4 | React Weather App | [Day 15](https://github.com/mimukit/100-days-of-code-log#day-15-june-9-2017-friday "Day 15") |
+| 5 | React Youtube App | [Day 25](https://github.com/mimukit/100-days-of-code-log#day-25-june-20-2017-tuesday "Day 25") |
+
 ## Log
 
 ### Day 1: May 25, 2017, Thursday
