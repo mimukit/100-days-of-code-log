@@ -463,3 +463,20 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - JS: `Lodash` utility library usage & some api
 
 **Thoughts:**  Currently I am focused only on pure React. So courses and books I started was completed till React discussion. Redux/Flux/Relay/GraphQL all other tech discussion are omitted now, and will be continued on appropriate time sequentially. I want to do 2-3 more complete React projects before drive into advanced topices.
+
+------------
+
+### Day 25: June 20, 2017, Tuesday
+
+**Today's Progress**: 
+- **Completed** "**React Youtube App**" project
+- Continue reading "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 2-3]
+
+
+**Link to work:** 
+- [React Youtube App](https://github.com/mimukit/react-youtube-app "React Youtube App")
+
+**New thing(s) learned:** 
+- Tools: some webpack config tweaks to run production build
+
+**Thoughts:**  Finally completed the video site app using youtube api. Feeling great about total progress. Now I am much more comfortable about React and it's ecosystems. 😇😇
