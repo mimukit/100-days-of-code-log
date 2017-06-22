@@ -490,3 +490,19 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Tools: some webpack config tweaks to run production build
 
 **Thoughts:**  Finally completed the video site app using youtube api. Feeling great about total progress. Now I am much more comfortable about React and it's ecosystems. 😇😇
+
+------------
+
+### Day 26: June 21, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue reading "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 4]
+
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- Nothing much new. Previous knowledge review.
+
+**Thoughts:**  Today was a busy day, and next will be also a busy week as Eid is almost knocking on the door. In this time, expect to complete some book reading and exercises.
