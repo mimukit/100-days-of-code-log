@@ -506,3 +506,15 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 - Nothing much new. Previous knowledge review.
 
 **Thoughts:**  Today was a busy day, and next will be also a busy week as Eid is almost knocking on the door. In this time, expect to complete some book reading and exercises.
+
+------------
+
+### Eid Vacation Started
+
+Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soon as possible. But in the main time, during the vacation, I'll try to read some books and resources in my free time. I'll update the vacation progress here:
+
+- ##### *Vacation Day 1: 22 June, 2017, Thrusday* : 
+	- On a journey to my home villege. no reading or coding today.
+
+------------
+
