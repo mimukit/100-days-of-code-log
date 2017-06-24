@@ -515,6 +515,8 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 
 - ##### *Vacation Day 1: 22 June, 2017, Thrusday* : 
 	- On a journey to my home villege. no reading or coding today.
+- ##### *Vacation Day 2: 23 June, 2017, Friday* : 
+	- No reading or coding today also. Visiting some relatives house.
 
 ------------
 
