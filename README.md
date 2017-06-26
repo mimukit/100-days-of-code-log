@@ -521,6 +521,8 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 	- Reading "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 4]
 - ##### *Vacation Day 4: 25 June, 2017, Sunday* : 
 	- No coding or reading. Enjoying the vacation.
+- ##### *Vacation Day 5: 26 June, 2017, Monday* : 
+	- Today is Eid Day. So no reading or coding.
 
 ------------
 
