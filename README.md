@@ -523,6 +523,8 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 	- No coding or reading. Enjoying the vacation.
 - ##### *Vacation Day 5: 26 June, 2017, Monday* : 
 	- Today is Eid Day. So no reading or coding.
+- ##### *Vacation Day 6: 27 June, 2017, Tuesday* : 
+	- No reading or coding today also. Visiting some relatives houses.
 
 ------------
 
