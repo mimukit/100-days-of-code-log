@@ -531,6 +531,8 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 	- Nothing much today. No reading or coding. Comming back to home. Wish to start regular coding journey from tomorrow.
 - ##### *Vacation Day 9: 30 June, 2017, Friday* : 
 	- Couldn't start working today also. I have to extend the vacation due to some family issue.
+- ##### *Vacation Day 10: 01 July, 2017, Saturday* : 
+	- Finally reached the end of the vacation. No coding or reading today, but hopefully can start from tomorrow. Overall enjoyed a Happy Eid Vacation.
 
 ------------
 
