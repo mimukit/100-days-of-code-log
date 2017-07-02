@@ -536,3 +536,17 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 
 ------------
 
+### Day 27: July 02, 2017, Sunday
+
+**Today's Progress**: 
+- Continue working on **Personal Portfolio Site**
+- Continue reading "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 4]
+
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- Nothing much new. Previous knowledge review.
+
+**Thoughts:**  After a 10 days long vacation, the exiciting coding journey continues from today. I need to finish my portfolio site as soon as possible.
