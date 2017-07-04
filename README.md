@@ -568,3 +568,19 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 - Other: static site generator working process
 
 **Thoughts:**  I wanted to build my portfolio site with a JavaScript based static site generator where I also can use my React knowledge. [Gatsby](https://www.gatsbyjs.org/ "Gatsby") & [Phenomic](https://phenomic.io/ "Phenomic") was the best options right now. Gatsby is relatively popular but lack of documentation. Phenomic is newer but packed with good documentation. Still need some research to finalize.
+
+-----------
+
+### Day 29: July 04, 2017, Tuesday
+
+**Today's Progress**: 
+- Continue working on **Personal Portfolio Site**. Working on layout design.
+- Research & analyze some UI kit for my site
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- Nothing new thing learned today
+
+**Thoughts:**  UI design decision making process is really time consuming. Though I coded some temporary page layout today, but no one was good enough. I think it will take more time to complete the personal site project of mine.
