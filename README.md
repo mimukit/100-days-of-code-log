@@ -584,3 +584,21 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 - Nothing new thing learned today
 
 **Thoughts:**  UI design decision making process is really time consuming. Though I coded some temporary page layout today, but no one was good enough. I think it will take more time to complete the personal site project of mine.
+
+-----------
+
+### Day 30: July 05, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue working on **Personal Portfolio Site**.
+- Completed the design selection process.
+- Continue reading "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch") [Ch: 5]
+
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- Other: some photoshop tweaks for slice and selection.
+
+**Thoughts:**  Finally complete initial research for portfolio UI. Now actual design is in progress. Hope to complete it within 1-2 days.
