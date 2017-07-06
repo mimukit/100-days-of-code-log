@@ -602,3 +602,25 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 - Other: some photoshop tweaks for slice and selection.
 
 **Thoughts:**  Finally complete initial research for portfolio UI. Now actual design is in progress. Hope to complete it within 1-2 days.
+
+-----------
+
+### Day 31: July 06, 2017, Thursday
+
+**Today's Progress**: 
+- Continue working on **Personal Portfolio Site**.
+- Completed PSD design for **Home & About** page
+- Started another book [React.js Training](https://www.gitbook.com/book/rangle-io/react-training/details "React.js Training") by [Rangle.io](https://rangle.io/ "Rangle.io")
+- Completed exercise tasks form "React.js Training"  book
+
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- JS: `Atomic Design` concept and how to apply in real world app
+- JS: `Immutable.js` what & why
+
+**Thoughts:**  During web surfing, I found that book "[React.js Training](https://www.gitbook.com/book/rangle-io/react-training/details "React.js Training")" by [Rangle.io](https://rangle.io/ "Rangle.io"). I read their [Rangle's Angular Training Book](https://angular-2-training-book.rangle.io/) previously so I had an idea about their content quality. So I couldn't hold myself to start reading their React book.
+
+Anyway, beside reading that book, I successfully started PSD design for my portfolio site and completed first two pages, "Home" & "About". Quite Happy about the progress. 😁😁😁
