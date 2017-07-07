@@ -624,3 +624,20 @@ Due to Eid-ul-fittar, I am on a vacation. I'll try to come back to coding as soo
 **Thoughts:**  During web surfing, I found that book "[React.js Training](https://www.gitbook.com/book/rangle-io/react-training/details "React.js Training")" by [Rangle.io](https://rangle.io/ "Rangle.io"). I read their [Rangle's Angular Training Book](https://angular-2-training-book.rangle.io/) previously so I had an idea about their content quality. So I couldn't hold myself to start reading their React book.
 
 Anyway, beside reading that book, I successfully started PSD design for my portfolio site and completed first two pages, "Home" & "About". Quite Happy about the progress. 😁😁😁
+
+-----------
+
+### Day 32: July 07, 2017, Friday
+
+**Today's Progress**: 
+- Finished [React.js Training](https://www.gitbook.com/book/rangle-io/react-training/details "React.js Training") book by [Rangle.io](https://rangle.io/ "Rangle.io")
+- Completed exercise tasks form "React.js Training"  book
+
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- JS: some `redux` concept and how to apply in real world app
+
+**Thoughts:**  No work on personal portfolio today. Completed the React book started yesterday. Actually the book is a summarized introduction of React ecosystems & concepts. Was not so much useful as I expected.
