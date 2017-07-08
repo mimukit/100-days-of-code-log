@@ -641,3 +641,22 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: some `redux` concept and how to apply in real world app
 
 **Thoughts:**  No work on personal portfolio today. Completed the React book started yesterday. Actually the book is a summarized introduction of React ecosystems & concepts. Was not so much useful as I expected.
+
+
+-----------
+
+### Day 33: July 08, 2017, Saturday
+
+**Today's Progress**: 
+- Completed reading "[The Road to learn React](https://leanpub.com/the-road-to-learn-react "The Road to learn React")" by [Robin Wieruch](https://twitter.com/rwieruch "Robin Wieruch")
+- Work on some design for my portfolio site
+
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- JS: advanced React components
+- JS: React state management
+
+**Thoughts:**  Finally completed the book "The Road to learn React". Overall a good read. Today some works on my portfolio site design have been done too. Quite a good progress indeed.
