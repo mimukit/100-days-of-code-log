@@ -660,3 +660,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: React state management
 
 **Thoughts:**  Finally completed the book "The Road to learn React". Overall a good read. Today some works on my portfolio site design have been done too. Quite a good progress indeed.
+
+-----------
+
+### Day 34: July 09, 2017, Sunday
+
+**Today's Progress**: 
+- Started new book "[Fullstack Reack](https://www.fullstackreact.com "Fullstack React")" by [fullstack.io](https://www.fullstack.io/ "fullstack.io official site")
+- Continue working on portfolio site.
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- Nothing much new today
+
+**Thoughts:**  Passing a bit busy day. Not much work done. Started a new book on React and done some design for my portfolio.
