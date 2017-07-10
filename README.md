@@ -676,3 +676,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Nothing much new today
 
 **Thoughts:**  Passing a bit busy day. Not much work done. Started a new book on React and done some design for my portfolio.
+
+-----------
+
+### Day 35: July 10, 2017, Monday
+
+**Today's Progress**: 
+- Continue reading book "[Fullstack Reack](https://www.fullstackreact.com "Fullstack React")" by [fullstack.io](https://www.fullstack.io/ "fullstack.io official site") [Ch-1]
+- Completed chapter coding examples & exercises
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- Nothing new today. Revise on React basics.
+
+**Thoughts:**  Not much work done today. Feeling little bit empty.
