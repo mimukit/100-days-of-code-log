@@ -692,3 +692,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Nothing new today. Revise on React basics.
 
 **Thoughts:**  Not much work done today. Feeling little bit empty.
+
+-----------
+
+### Day 36: July 11, 2017, Tuesday
+
+**Today's Progress**: 
+- Continue reading book "[Fullstack Reack](https://www.fullstackreact.com "Fullstack React")" by [fullstack.io](https://www.fullstack.io/ "fullstack.io official site") [Ch-1]
+- Started a little application, "**React Voting App**"
+
+**Link to work:** 
+- No compelete project today
+
+**New thing(s) learned:** 
+- JS: React component optimization & dependency injection tips
+
+**Thoughts:**  Enjoying the book so far. Need to do some work on my portfolio site (no work done last two days).
