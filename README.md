@@ -708,3 +708,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: React component optimization & dependency injection tips
 
 **Thoughts:**  Enjoying the book so far. Need to do some work on my portfolio site (no work done last two days).
+
+-----------
+
+### Day 37: July 12, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue reading book "[Fullstack Reack](https://www.fullstackreact.com "Fullstack React")" by [fullstack.io](https://www.fullstack.io/ "fullstack.io official site") [Ch-2]
+- Completed "**React Voting App**" application
+
+**Link to work:** 
+- [React Voting App](https://github.com/mimukit/react-voting-app "React Voting App Github Repo")
+
+**New thing(s) learned:** 
+- JS: `this` keyword's working process for `arrow function` of ES6
+
+**Thoughts:**  Successfully completed first exercise app form the "Fullstack React" book. Good progress overall.
