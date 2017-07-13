@@ -727,7 +727,7 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 -----------
 
-### Day 39: July 13, 2017, Thursday
+### Day 38: July 13, 2017, Thursday
 
 **Today's Progress**: 
 - Completed design for portfolio site
