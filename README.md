@@ -724,3 +724,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: `this` keyword's working process for `arrow function` of ES6
 
 **Thoughts:**  Successfully completed first exercise app form the "Fullstack React" book. Good progress overall.
+
+-----------
+
+### Day 39: July 13, 2017, Thursday
+
+**Today's Progress**: 
+- Completed design for portfolio site
+- Started building the site in React
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `create-react-app` in depth
+
+**Thoughts:**  I need to complete my portfolio site as soon as possible. That's why I focused on portfolio site building; keeping everything aside. Wish to complete it this time asap.
