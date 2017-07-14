@@ -740,3 +740,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: `create-react-app` in depth
 
 **Thoughts:**  I need to complete my portfolio site as soon as possible. That's why I focused on portfolio site building; keeping everything aside. Wish to complete it this time asap.
+
+------------
+
+### ~~Day 39~~ (Off Day 3): July 14, 2017, Friday
+
+**Today's Progress**: 
+- It was an off day. No coding or reading. I was on a visit to my home.
+
+**Link to work:** 
+- None
+
+**New thing(s) learned:** 
+- None
+
+**Thoughts:** I had some personal works to be done. So I thought to take a day off. It feels refreshing.
