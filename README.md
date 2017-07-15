@@ -755,3 +755,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - None
 
 **Thoughts:** I had some personal works to be done. So I thought to take a day off. It feels refreshing.
+
+-----------
+
+### Day 39: July 15, 2017, Saturday
+
+**Today's Progress**: 
+- Continue working on portfolio site.
+
+**Link to work:** 
+- No complete app today.
+
+**New thing(s) learned:** 
+- JS: `ant.design` implementation
+- CSS: `visibility:hidden` vs `display:none`
+
+**Thoughts:**  Not much coding, lot of reading.
