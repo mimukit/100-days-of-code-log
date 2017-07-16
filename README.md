@@ -771,3 +771,21 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - CSS: `visibility:hidden` vs `display:none`
 
 **Thoughts:**  Not much coding, lot of reading.
+
+-----------
+
+### Day 40: July 16, 2017, Sunday
+
+**Today's Progress**: 
+- Continue working on portfolio site.
+- Research on `styled-components`
+
+**Link to work:** 
+- No complete app today.
+
+**New thing(s) learned:** 
+- JS: `styled-components` usage
+- Other: `service-workers` features and `offline` app making
+
+**Thoughts:**  Overall a good progress. Want to give my site offline browsing capability, which needed some research done today.
+
