@@ -787,5 +787,5 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: `styled-components` usage
 - Other: `service-workers` features and `offline` app making
 
-**Thoughts:**  Overall a good progress. Want to give my site offline browsing capability, which needed some research done today.
+**Thoughts:**  Overall a good progress. Want to give my portfolio site offline browsing capability, which needed some research; done today.
 
