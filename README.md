@@ -789,3 +789,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  Overall a good progress. Want to give my portfolio site offline browsing capability, which needed some research; done today.
 
+
+-----------
+
+### Day 41: July 17, 2017, Monday
+
+**Today's Progress**: 
+- Continue working on portfolio site. Made some progress.
+
+**Link to work:** 
+- No complete app today.
+
+**New thing(s) learned:** 
+- CSS: `modular-css` how to.
+
+**Thoughts:**  Little more progress to final site. I need to take a deeper look into git workflow.
+
