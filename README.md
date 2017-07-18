@@ -805,3 +805,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  Little more progress to final site. I need to take a deeper look into git workflow.
 
+-----------
+
+### Day 42: July 18, 2017, Tuesday
+
+**Today's Progress**: 
+- Started a deeper look at `git` & `git workflow` on [Atlassian](https://www.atlassian.com/git/tutorials "Git Tutorials and Training")
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- Nothing much new. Just revisited git basics.
+
+**Thoughts:**  Wanted to revisit the version control world. This is the first step.
+
