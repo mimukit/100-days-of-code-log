@@ -820,3 +820,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  Wanted to revisit the version control world. This is the first step.
 
+-----------
+
+### Day 43: July 19, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue `git` tutorial on [Atlassian](https://www.atlassian.com/git/tutorials "Git Tutorials and Training")
+- Continue work on portfolio site
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- Git: some new git commands
+
+**Thoughts:**  Little progress overall today.
