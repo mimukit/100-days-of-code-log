@@ -850,3 +850,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Git: new git commands
 
 **Thoughts:**  Work on some more git tutorial today. No work on portfolio site though.
+
+------------
+
+### ~~Day 45~~ (Off Day 4): July 21, 2017, Friday
+
+**Today's Progress**: 
+- It was an off day. No coding or reading.
+
+**Link to work:** 
+- None
+
+**New thing(s) learned:** 
+- None
+
+**Thoughts:** I took a break today. Went out with my family members.
