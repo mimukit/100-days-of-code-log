@@ -835,3 +835,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Git: some new git commands
 
 **Thoughts:**  Little progress overall today.
+
+-----------
+
+### Day 44: July 20, 2017, Thursday
+
+**Today's Progress**: 
+- Continue `git` tutorial on [Atlassian](https://www.atlassian.com/git/tutorials "Git Tutorials and Training")
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- Git: new git commands
+
+**Thoughts:**  Work on some more git tutorial today. No work on portfolio site though.
