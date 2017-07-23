@@ -880,3 +880,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Git: some new git commands & methods
 
 **Thoughts:**  Took a break yesterday. Passing days with little bit ups and downs. Completed the git tutorial today.
+
+-----------
+
+### Day 46: July 23, 2017, Sunday
+
+**Today's Progress**: 
+- Continue work on portfolio site.
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- Nothing much new
+
+**Thoughts:**  Little more progress. Need to start `freeCodeCamp` curriculum.
