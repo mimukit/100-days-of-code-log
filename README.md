@@ -865,3 +865,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - None
 
 **Thoughts:** I took a break today. Went out with my family members.
+
+-----------
+
+### Day 45: July 22, 2017, Saturday
+
+**Today's Progress**: 
+- Completed `git` tutorial on [Atlassian](https://www.atlassian.com/git/tutorials "Git Tutorials and Training")
+
+**Link to work:** 
+- No complete project today.
+
+**New thing(s) learned:** 
+- Git: some new git commands & methods
+
+**Thoughts:**  Took a break yesterday. Passing days with little bit ups and downs. Completed the git tutorial today.
