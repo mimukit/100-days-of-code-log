@@ -895,3 +895,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Nothing much new
 
 **Thoughts:**  Little more progress. Need to start `freeCodeCamp` curriculum.
+
+------------
+
+### ~~Day 47~~ (Off Day 5): July 24, 2017, Monday
+
+**Today's Progress**: 
+- It was an off day. No coding or reading.
+
+**Link to work:** 
+- None
+
+**New thing(s) learned:** 
+- None
+
+**Thoughts:** Need to take another off day for some personal reason. Hope to come back on track soon.
