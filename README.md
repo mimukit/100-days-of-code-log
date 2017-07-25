@@ -910,3 +910,10 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - None
 
 **Thoughts:** Need to take another off day for some personal reason. Hope to come back on track soon.
+
+
+--------
+
+
+
+
