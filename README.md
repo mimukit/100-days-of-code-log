@@ -912,8 +912,20 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 **Thoughts:** Need to take another off day for some personal reason. Hope to come back on track soon.
 
 
---------
+------------
 
+### Day 47: June 25, 2017, Tuesday
 
+**Today's Progress**: 
+- Introduction to [Redux](http://redux.js.org/ "Redux")
+- Restarted [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 18]
+- Completed some exercise examples form #30DaysOfReact series.
 
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: Redux concept & intro
+
+**Thoughts:**  Finally get started with Redux. Feeling great.
 
