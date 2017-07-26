@@ -929,3 +929,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  Finally get started with Redux. Feeling great.
 
+------------
+
+### Day 48: June 26, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue book [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 19]
+- Completed some exercise examples form #30DaysOfReact series.
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: Redux `actions`, `reducer`, `store`
+
+**Thoughts:**  Redux is little bit complex concept at first. Need some deep research.
