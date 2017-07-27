@@ -944,3 +944,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: Redux `actions`, `reducer`, `store`
 
 **Thoughts:**  Redux is little bit complex concept at first. Need some deep research.
+
+------------
+
+### Day 49: June 27, 2017, Thursday
+
+**Today's Progress**: 
+- Continue book [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 20]
+- Completed some exercise examples form #30DaysOfReact series.
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: some more redux concept
+
+**Thoughts:**  Little progress on redux.
