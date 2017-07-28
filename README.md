@@ -960,3 +960,17 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: some more redux concept
 
 **Thoughts:**  Little progress on redux.
+
+-----------
+### Day 50: June 28, 2017, Friday
+
+**Today's Progress**: 
+- Continue some work on portfolio site
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- Other: Cross-browser polyfills why & how
+
+**Thoughts:**  Little more progress on portfolio site.
