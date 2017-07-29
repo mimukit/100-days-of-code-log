@@ -974,3 +974,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Other: Cross-browser polyfills why & how
 
 **Thoughts:**  Little more progress on portfolio site.
+
+------------
+
+### Day 51: June 29, 2017, Saturday
+
+**Today's Progress**: 
+- Continue book [30 Days of React](https://www.fullstackreact.com/30-days-of-react/ "30 Days of React") by [FullStack.io](https://www.fullstack.io/ "FullStack.io"). [Day: 21]
+- Completed some exercise examples form #30DaysOfReact series.
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: some more redux concept
+
+**Thoughts:**  Need more clarification on these topics. Need some deep drive.
