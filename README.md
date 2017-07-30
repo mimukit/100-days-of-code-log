@@ -990,3 +990,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: some more redux concept
 
 **Thoughts:**  Need more clarification on these topics. Need some deep drive.
+
+-----------
+### Day 52: June 30, 2017, Sunday
+
+**Today's Progress**: 
+- Continue some work on portfolio site
+- Deep drive into `react-router`
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `react-router` v4 how to
+
+**Thoughts:**  Going through the `react-router` documentation and how it works. How it provides dynamic routing features to our apps. Very useful piece of technology.
