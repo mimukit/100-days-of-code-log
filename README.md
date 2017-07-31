@@ -1005,3 +1005,6 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: `react-router` v4 how to
 
 **Thoughts:**  Going through the `react-router` documentation and how it works. How it provides dynamic routing features to our apps. Very useful piece of technology.
+
+
+--------
