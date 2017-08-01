@@ -996,7 +996,7 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Today's Progress**: 
 - Continue some work on portfolio site
-- Deep drive into `react-router`
+- Deep dive into `react-router`
 
 **Link to work:** 
 - No complete project today
@@ -1006,5 +1006,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  Going through the `react-router` documentation and how it works. How it provides dynamic routing features to our apps. Very useful piece of technology.
 
+-----------
 
---------
+### Day 53: June 31, 2017, Monday
+
+**Today's Progress**: 
+- Continue some work on portfolio site
+- Added & implemented `and.design` to portfolio project
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: `eject` command working process with `create-react-app` 
+- JS: `webpack` customization for ant.design
+
+**Thoughts:**  The day seems finding rabbit holes during implement ant.design in my project and gluing them to match my need. It was hard but at the end of the day, it is fun too. 😁😁
