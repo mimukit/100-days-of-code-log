@@ -1012,7 +1012,7 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Today's Progress**: 
 - Continue some work on portfolio site
-- Added & implemented `and.design` to portfolio project
+- Implemented `and.design` to portfolio project
 
 **Link to work:** 
 - No complete project today
@@ -1022,3 +1022,21 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: `webpack` customization for ant.design
 
 **Thoughts:**  The day seems finding rabbit holes during implement ant.design in my project and gluing them to match my need. It was hard but at the end of the day, it is fun too. 😁😁
+
+
+-----------
+### Day 54: August 01, 2017, Tuesday
+
+**Today's Progress**: 
+- Continue some work on portfolio site
+- Completed collapsible sidebar design
+- Implemented `react-router` v4 to portfolio project
+- Created `routes` for the site
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- JS: implementation of `react-router-dom` in web projects
+
+**Thoughts:**  This is a good progress on my portfolio site. Completed the sidebar menu and routes today. Feeling great.
