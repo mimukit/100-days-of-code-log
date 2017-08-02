@@ -1025,6 +1025,7 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 
 -----------
+
 ### Day 54: August 01, 2017, Tuesday
 
 **Today's Progress**: 
@@ -1040,3 +1041,5 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - JS: implementation of `react-router-dom` in web projects
 
 **Thoughts:**  This is a good progress on my portfolio site. Completed the sidebar menu and routes today. Feeling great.
+
+--------
