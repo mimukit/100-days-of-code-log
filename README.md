@@ -1042,4 +1042,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 
 **Thoughts:**  This is a good progress on my portfolio site. Completed the sidebar menu and routes today. Feeling great.
 
---------
+-----------
+
+### Day 55: August 02, 2017, Wednesday
+
+**Today's Progress**: 
+- Continue some work on portfolio site
+- Applied git workflow in my project
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- Other: some workflow techniques
+
+**Thoughts:** Nothing much work done today. Little progress.
