@@ -1057,3 +1057,18 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - Other: some workflow techniques
 
 **Thoughts:** Nothing much work done today. Little progress.
+
+------------
+
+### ~~Day 56~~ (Off Day 6): August 03, 2017, Thursday
+
+**Today's Progress**: 
+- No coding or reading. Going back to Dhaka
+
+**Link to work:** 
+- None
+
+**New thing(s) learned:** 
+- None
+
+**Thoughts:** It was a travel day go back to Dhaka. No coding or reading.
