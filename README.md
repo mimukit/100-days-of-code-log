@@ -1072,3 +1072,19 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - None
 
 **Thoughts:** It was a travel day go back to Dhaka. No coding or reading.
+
+-----------
+
+### Day 56: August 04, 2017, Friday
+
+**Today's Progress**: 
+- Continue some work on portfolio site
+- Created an animated scrolling mouse icon 
+
+**Link to work:** 
+- No complete project today
+
+**New thing(s) learned:** 
+- CSS: some animation technique
+
+**Thoughts:** Feeling great about that nice little animated scrolling mouse. 😍😍
