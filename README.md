@@ -1088,3 +1088,5 @@ Anyway, beside reading that book, I successfully started PSD design for my portf
 - CSS: some animation technique
 
 **Thoughts:** Feeling great about that nice little animated scrolling mouse. 😍😍
+
+--------
